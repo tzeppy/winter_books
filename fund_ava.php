@@ -1,43 +1,14 @@
 <!doctype html>
 <html>
   <head>
-    <title>WinterBooks</title>
-    <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+    <title>Ava</title>
     <link rel="stylesheet" href="static/css/site.css" type="text/css" charset="utf-8"></link>
     <link rel="stylesheet" href="static/css/ava.css" type="text/css" charset="utf-8"></link>
 
   </head>
   <body>
-    <?php include('banner.php'); ?>
-
     <div class="content" id="ava_content">
     	 <img id="ava_image" src="static/images/ava.jpg"/>
-	 <p>
-    	 Carmine is dedicated to my great friend Christina Newman. 
-	 She was the one who encouraged me to "write a book".
-	 And I believe that my protagonist Ona Bell embodies to some degree Christina's fighting spirit.
-	 This page is devoted to the story of Christina and her daughter Ava.</p>
-	 <p>
-	 Christina has chosen me to be Ava's Godmother. I think that there are two major gifts I can
-	 give Ava - my love, and Education.  Out of every ten dollars of profit from Carmine,
-	 I'm giving one dollar to Ava's educational fund.</p>
-	 <p>If you want to give directly to Ava's Education Fund,
-	 please click here:</p>
-
-	 <center>
-	 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-	   <input type="hidden" name="cmd" value="_donations">
-	   <input type="hidden" name="business" value="elmonne@hotmail.com">
-	   <input type="hidden" name="lc" value="US">
-	   <input type="hidden" name="item_name" value="Ava Monne Education Fund">
-	   <input type="hidden" name="no_note" value="0">
-	   <input type="hidden" name="currency_code" value="USD">
-	   <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
-	   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-	   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-	 </form>
-	 </center>
-	 <br>
 
 	 <h2><center>Ava's Story</center></h2>
 	 <p>Ava is a miracle child of Christina Newman and Ernesto Monne. Her parents were married in April 26 2008.
@@ -58,10 +29,20 @@
 	 --Ernesto Monne
 	   
 
-
-	 
-
-
+	 <center>
+	 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	   <input type="hidden" name="cmd" value="_donations">
+	   <input type="hidden" name="business" value="elmonne@hotmail.com">
+	   <input type="hidden" name="lc" value="US">
+	   <input type="hidden" name="item_name" value="Ava Monne Education Fund">
+	   <input type="hidden" name="no_note" value="0">
+	   <input type="hidden" name="currency_code" value="USD">
+	   <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+	   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	 </form>
+	 </center>
+	 <br>
 
 
     </div>
