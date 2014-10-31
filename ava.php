@@ -20,7 +20,8 @@
 	 <p>
 	 Christina has chosen me to be Ava's Godmother. I think that there are two major gifts I can
 	 give Ava - my love, and Education.  Out of every ten dollars of profit from Carmine,
-	 I'm giving one dollar to Ava's educational fund.</p>
+	 I'm giving one dollar to Ava's educational fund. 
+	 If you want to learn how to help me at no cost to yourself, please <a href="support_authors.php">click here</a>.</p>
 	 <p>If you want to give directly to Ava's Education Fund,
 	 please click here:</p>
 
