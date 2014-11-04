@@ -34,7 +34,7 @@
             </div>
           </form>
         </div>
-        <div id="fb"> Please connect with me on FB too!!!
+        <div id="fb"> Please connect with me on <a href="https://www.facebook.com/Winterbooks">facebook</a> too!!!
           <div class="fb-like" data-href="https://www.facebook.com/Winterbooks" data-width="350" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
         </div>
       </div>
